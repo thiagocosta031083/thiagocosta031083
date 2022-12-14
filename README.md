@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou Thiago Costa 👋
-🔭Desenvolvedor Júnior com 1 ano de experiência desenvolvendo na linguagem de programação PHP e utilizando o banco de dados MySQL. Tenho 20 anos de experiência da área de Ciências Contábeis que me ajuda na área de Programação, com a capacidade de solucionar problemas mais complexos e de entender o modelo de negócio de cada projeto.<br>
-🌱 Atualmente estou estudando JAVA<br>
+🔭Desenvolvedor Júnior com 1 ano de experiência desenvolvendo na linguagem de programação PHP e utilizando o banco de dados MySQL. A experiência de 20 anos na área de Ciências Contábeis ajuda muito na hora de programar, pois tenho a capacidade de solucionar problemas mais complexos e de entender o modelo de negócio de cada projeto.<br>
+🌱 Atualmente estou estudando JAVA.<br>
 
  <div align="center">
   <a href="https://github.com/thiagocosta031083">
