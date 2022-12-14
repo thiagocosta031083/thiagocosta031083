@@ -1,4 +1,7 @@
-### Olá!!! Eu sou Thiago Costa, Desenvolvedor Junior 👋
+### Olá!!! Eu sou Thiago Costa, 👋
+🔭Desenvolvedor Júnior com 1 ano de experiência desenvolvendo na linguagem de programação PHP e utilizando o banco de dados MySQL. Tenho 20 anos de experiência da área de Ciências Contábeis que me ajuda na área de Programação, com a capacidade de solucionar problemas mais complexos e de entender o modelo de negócio de cada projeto.<br>
+🌱 Atualmente estou estudando JAVA<br>
+
  <div align="center">
   <a href="https://github.com/thiagocosta031083">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagocosta031083&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
