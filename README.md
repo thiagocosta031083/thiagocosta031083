@@ -30,8 +30,8 @@
  <a href="https://www.linkedin.com/in/thiago-costa-035420100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/thiagodealmeidacosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagocosta031083@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-   ##
+  
+  ##
  
   ### Projetos:
    ![Snake animation](https://github.com/thiagocosta031083/thiagocosta031083/blob/output/github-contribution-grid-snake.svg)
@@ -81,4 +81,7 @@ Caso necesside de colocar alguma coisa, basta pegar abaixo:
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+Link para colocar o botão do whatsapp =  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 -->
