@@ -5,7 +5,7 @@
   ##
   
  ### Sobre o Github e Linguagens:
- <div align="center">
+ <div align="right">
   <a href="https://github.com/thiagocosta031083">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagocosta031083&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocosta031083&layout=compact&langs_count=7&theme=dark"/>
