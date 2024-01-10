@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou Thiago Costa 👋
-🔭Desenvolvedor Júnior com 1 ano de experiência desenvolvendo na linguagem de programação PHP e utilizando o banco de dados MySQL. A experiência de 20 anos na área de Ciências Contábeis ajuda muito na hora de programar, pois tenho a capacidade de solucionar problemas mais complexos e de entender o modelo de negócio de cada projeto.<br>
-🌱 Atualmente estou estudando JAVA.<br>
+🔭Em um ano de experiência como Desenvolvedor Java, estive imerso em um constante processo de aprendizado, criando aplicações com Java, PHP e MySQL. Durante esse período, aprimorei habilidades operacionais, técnicas e criativas.<br>
+🌱 No último ano, concluí dois cursos presenciais essenciais: "Web Developer" e "Java SE e Java Web". Essas experiências solidificaram meu conhecimento em Java SE, Java Web e PHP. Além disso, desenvolvi a conhecimentos em HTML, CSS, JavaScript e WordPress. Trabalhar com o banco de dados MySQL proporcionou uma significativa oportunidade de aprendizado. Além dos cursos presenciais, busquei por outros realizados online, participando de cursos como "Introdução ao Java - Fundamentos Para Lógica de Programação" pela Udemy e "Desenvolvedor Full Stack" atrvés da empresa Dank Code.<br>
 
   ##
   
