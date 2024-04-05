@@ -1,5 +1,5 @@
 ### Olá!!! Eu sou Thiago Costa 👋
-🔭Em um ano de experiência como Desenvolvedor Java, estive imerso em um constante processo de aprendizado, criando aplicações com Java, PHP e MySQL. Durante esse período, aprimorei habilidades operacionais, técnicas e criativas.<br>
+🔭Em dois anos de experiência como Desenvolvedor Java, estive imerso em um constante processo de aprendizado, criando aplicações com Java, PHP e MySQL. Durante esse período, aprimorei habilidades operacionais, técnicas e criativas.<br>
 🌱 No último ano, concluí dois cursos presenciais essenciais: "Web Developer" e "Java SE e Java Web". Essas experiências solidificaram meu conhecimento em Java SE, Java Web e PHP. Além disso, desenvolvi a conhecimentos em HTML, CSS, JavaScript e WordPress. Trabalhar com o banco de dados MySQL proporcionou uma significativa oportunidade de aprendizado. Além dos cursos presenciais, busquei por outros realizados online, participando de cursos como "Introdução ao Java - Fundamentos Para Lógica de Programação" pela Udemy e "Desenvolvedor Full Stack" atrvés da empresa Dank Code.<br>
 
   ##
