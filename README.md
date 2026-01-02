@@ -1,7 +1,17 @@
 ### Olá!!! Eu sou Thiago Costa 👋
-🔭Em quase dois anos de experiência como Desenvolvedor Java, estive imerso em um constante processo de aprendizado, criando aplicações com Java, PHP e MySQL. Durante esse período, aprimorei habilidades operacionais, técnicas e criativas.<br>
-🌱 No último ano, concluí dois cursos presenciais essenciais: "Web Developer" e "Java SE e Java Web". Essas experiências solidificaram meu conhecimento em Java SE, Java Web e PHP. Além disso, desenvolvi a conhecimentos em HTML, CSS, JavaScript e WordPress. Trabalhar com o banco de dados MySQL proporcionou uma significativa oportunidade de aprendizado. Além dos cursos presenciais, busquei por outros realizados online, participando de cursos como "Introdução ao Java - Fundamentos Para Lógica de Programação" pela Udemy e "Desenvolvedor Full Stack" atrvés da empresa Dank Code.<br>
+Sou Desenvolvedor Java com experiência prática em ambientes corporativos, atuando há quase dois anos na Mirante Tecnologia no desenvolvimento, manutenção e evolução de sistemas backend e frontend utilizados em produção.
 
+No meu dia a dia profissional, trabalho com Java e frameworks do ecossistema Spring, desenvolvimento e consumo de APIs REST, integração entre sistemas, correção de bugs, análise de regras de negócio e apoio à sustentação de sistemas críticos. Também utilizo ferramentas amplamente adotadas em ambientes corporativos, como Jenkins, WebSphere, Sonar, Nexus, GitLab, Postman e DBeaver, sempre com foco em qualidade, estabilidade e manutenção a longo prazo.
+
+Tenho contato com tecnologias de frontend como HTML, CSS, JavaScript, TypeScript e Angular, o que me permite compreender melhor o funcionamento das aplicações de ponta a ponta e colaborar de forma mais eficiente com outros times.
+
+Antes da transição para a área de tecnologia, atuei por mais de 20 anos na área contábil e financeira. Essa experiência contribuiu significativamente para o meu perfil como desenvolvedor, fortalecendo habilidades como raciocínio lógico, análise de impacto, atenção a regras de negócio, consistência de dados, responsabilidade sobre informações críticas e visão sistêmica.
+
+Ao longo da minha formação técnica, participei de cursos presenciais e online voltados ao desenvolvimento web e Java, que ajudaram a consolidar fundamentos importantes. No entanto, minha evolução profissional tem sido fortemente baseada na prática diária em ambientes reais, lidando com código legado, correções em produção, melhorias incrementais e aprendizado contínuo dentro de projetos corporativos.
+
+Este repositório reúne projetos de estudo e experimentação técnica que refletem minha evolução como desenvolvedor, a aplicação prática dos conceitos aprendidos e meu interesse constante em aprimorar minhas habilidades.
+
+Meu objetivo profissional é evoluir para a posição de Desenvolvedor Java Pleno, assumindo desafios técnicos mais complexos e contribuindo de forma consistente para soluções robustas, escaláveis e alinhadas às necessidades do negócio.
   ##
   
  ### Sobre o Github e Linguagens:
