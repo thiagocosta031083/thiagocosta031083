@@ -98,7 +98,7 @@ Tenho especial interesse em projetos relacionados a:
 
 ## 📚 Formação
 
-🎓 **Pós-Graduação em Especialização em Tecnologia Java**
+🎓 **Cursando uma Pós-Graduação em Especialização em Tecnologia Java**
 Universidade Tecnológica Federal do Paraná — UTFPR
 
 🎓 **Bacharel em Ciências Contábeis**
