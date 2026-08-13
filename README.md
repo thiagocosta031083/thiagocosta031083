@@ -1,15 +1,12 @@
-# Olá! Eu sou Thiago Costa 👋
+# Olá, eu sou Thiago de Almeida Costa 👋
 
-## Desenvolvedor Java Full Stack
+## Desenvolvedor Java Full Stack | Foco em Backend
 
-Desenvolvedor Java Full Stack com experiência em **sistemas corporativos do setor financeiro**, atuando pela **Mirante Tecnologia em projetos do Sicoob**.
+Desenvolvedor Java Full Stack com experiência em **sistemas corporativos do setor financeiro**, atuando pela **Mirante Tecnologia** em projetos do **Sicoob**.
 
-Atualmente trabalho na manutenção, evolução e desenvolvimento de aplicações bancárias de alta criticidade, participando de projetos como:
+Trabalho no desenvolvimento, evolução, manutenção e sustentação de aplicações bancárias de alta criticidade, com atuação em backend, frontend, APIs REST, integrações entre sistemas, persistência de dados, testes automatizados, análise de incidentes e suporte à produção.
 
-* **RSAC — Risco Socioambiental e Climático**
-* **RCR — Renovação de Crédito Rural**
-
-Minha atuação envolve desenvolvimento backend e frontend, integração entre sistemas, APIs REST, bancos de dados corporativos, testes automatizados e processos de integração e entrega contínua.
+Minha experiência anterior nas áreas contábil e financeira complementa a atuação técnica com visão de negócio, capacidade analítica e compreensão de processos financeiros, consistência de dados e impacto das alterações.
 
 ---
 
@@ -17,108 +14,73 @@ Minha atuação envolve desenvolvimento backend e frontend, integração entre s
 
 ### Mirante Tecnologia | Cliente Sicoob
 
-Atuação no desenvolvimento e sustentação de sistemas bancários em produção, com foco em estabilidade, performance, confiabilidade e evolução das aplicações.
+**Desenvolvedor Java Full Stack · 2024 — atual**
 
-Principais atividades:
+Atuação em projetos corporativos apresentados em nível público e não confidencial:
 
-* Desenvolvimento backend com **Java 8, EJB, JPA, Hibernate e Spring**
-* Desenvolvimento e manutenção de **APIs RESTful**
-* Integração entre aplicações e sistemas legados
-* Desenvolvimento frontend com **Angular e TypeScript**
-* Testes unitários com **JUnit e Mockito**
-* Integração e entrega contínua com **Jenkins**
-* Qualidade de código com **SonarQube e SonarLint**
-* Consultas e persistência de dados com **DB2 e SQL Server**
-* Aplicações corporativas executadas em **WebSphere 8 e 9**
-* Documentação e gerenciamento de APIs com **Swagger e API Gateway**
-* Processamentos agendados e rotinas batch utilizando **SWS**
-* Versionamento de código com **Git**
-* Gerenciamento de dependências e build com **Maven**
+- **RCR — Renovação de Crédito Rural:** evolução de funcionalidades relacionadas à renovação de operações de crédito rural, regras de negócio, integrações, persistência e consistência de dados.
+- **RSAC — Risco Socioambiental e Climático:** desenvolvimento, manutenção e sustentação de funcionalidades, APIs, integrações, tratamento de dados e suporte à produção.
 
----
+Principais responsabilidades:
 
-## 🛠️ Stack principal
-
-### Backend
-
-`Java` `Spring` `EJB` `JPA` `Hibernate` `REST APIs`
-
-### Frontend
-
-`Angular` `TypeScript` `JavaScript` `HTML` `CSS`
-
-### Banco de Dados
-
-`DB2` `SQL Server` `MySQL` `MongoDB`
-
-### Testes e Qualidade
-
-`JUnit` `Mockito` `SonarQube` `SonarLint`
-
-### DevOps e Ferramentas
-
-`Git` `GitHub` `Jenkins` `Maven` `DBeaver`
-
-### Arquitetura e Integração
-
-`Swagger` `API Gateway` `WebSphere` `Sistemas Legados` `Sistemas Distribuídos`
+- backend com **Java 8, EJB, JPA/Hibernate e Spring**;
+- frontend com **Angular e TypeScript**;
+- implementação, manutenção e consumo de **APIs REST**;
+- integração entre aplicações e sistemas legados;
+- consultas e persistência com **DB2, SQL Server e SQL**;
+- testes automatizados com **JUnit e Mockito**;
+- qualidade de código com **SonarQube e SonarLint**;
+- CI/CD e build com **Jenkins, Maven e Git**;
+- atuação com **WebSphere 8/9, Swagger, API Gateway e SWS/Batch**;
+- investigação de incidentes e suporte a aplicações em produção.
 
 ---
 
-## 🚀 O que estou aprofundando
+## 🛠️ Stack profissional
 
-Minha evolução profissional está direcionada para engenharia de software aplicada a sistemas corporativos e financeiros, com foco em:
+**Backend:** `Java 8` `Spring` `EJB` `JPA` `Hibernate` `APIs REST`
 
-* Java moderno e Spring Boot
-* Arquitetura de microsserviços
-* Integração entre sistemas
-* Mensageria e processamento assíncrono
-* Performance de aplicações Java
-* Segurança de APIs
-* Docker e Kubernetes
-* CI/CD e DevOps
-* Cloud Computing
-* Arquitetura de software
+**Frontend:** `Angular` `TypeScript` `JavaScript` `HTML` `CSS`
+
+**Dados:** `DB2` `SQL Server` `SQL`
+
+**Testes e qualidade:** `JUnit` `Mockito` `SonarQube` `SonarLint`
+
+**DevOps e build:** `Jenkins` `Git` `Maven`
+
+**Plataforma e integração:** `WebSphere 8/9` `Swagger` `API Gateway` `SWS/Batch` `Sistemas legados`
+
+### Conhecimentos complementares
+
+`Spring Boot` `PostgreSQL` `Docker` `MongoDB` `GitHub`
 
 ---
 
-## 🎯 Áreas de interesse
+## 🚀 Projetos selecionados
 
-Tenho especial interesse em projetos relacionados a:
-
-* Sistemas bancários e financeiros
-* Crédito e risco
-* APIs e integrações
-* Sistemas distribuídos
-* Automação de processos
-* Aplicações corporativas de alta criticidade
-* Backend Java
+- **[Dev Mentor — Backend](https://github.com/thiagocosta031083/dev-mentor-backend):** sistema para planejamento de estudos e acompanhamento da evolução técnica de desenvolvedores.
+- **[Dev Mentor — Frontend](https://github.com/thiagocosta031083/dev-mentor-frontend):** interface Angular da aplicação Dev Mentor.
+- **[Organizador Inteligente de Downloads](https://github.com/thiagocosta031083/organizador_inteligente_downloads):** automação desktop para análise e organização segura de arquivos.
+- **[Gestão de Veículos API](https://github.com/thiagocosta031083/gestao-veiculos-api):** API REST em Java para gestão de veículos.
 
 ---
 
 ## 📚 Formação
 
-🎓 **Cursando uma Pós-Graduação em Especialização em Tecnologia Java**
-Universidade Tecnológica Federal do Paraná — UTFPR
-
-🎓 **Bacharel em Ciências Contábeis**
-UniCEUB
-
-Minha experiência anterior nas áreas contábil, financeira e tributária complementa minha atuação em tecnologia, principalmente na compreensão de **regras de negócio, processos financeiros e análise de problemas complexos**.
+- **Pós-Graduação em Especialização em Tecnologia Java** — UTFPR, em andamento;
+- **Pós-Graduação em Planejamento, Gestão e Auditoria Tributária** — IBEP;
+- **Bacharelado em Ciências Contábeis** — UniCEUB.
 
 ---
 
-## 📌 Projetos pessoais
+## 📈 Desenvolvimento profissional
 
-Além da experiência profissional, utilizo meus projetos pessoais para estudar arquitetura, novas tecnologias e boas práticas de engenharia de software.
-
-Meu objetivo atual é evoluir esses projetos para aplicações que representem problemas reais encontrados em ambientes corporativos, especialmente nos segmentos **financeiro, bancário e empresarial**.
+Continuo aprofundando conhecimentos em arquitetura de software, microsserviços, cloud, mensageria, performance, segurança, sistemas distribuídos e Docker/Kubernetes.
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Contato
 
-🌐 **Portfólio:** https://thiagodealmeidacosta.com.br
-💼 **LinkedIn:** https://www.linkedin.com/in/thiago-de-almeida-costa/
-💻 **GitHub:** https://github.com/thiagocosta031083
-📧 **E-mail:** [thiagocosta031083@gmail.com](mailto:thiagocosta031083@gmail.com)
+- **Portfólio:** [thiagodealmeidacosta.com.br](https://thiagodealmeidacosta.com.br)
+- **LinkedIn:** [linkedin.com/in/thiago-de-almeida-costa](https://www.linkedin.com/in/thiago-de-almeida-costa/)
+- **E-mail:** [thiagocosta031083@gmail.com](mailto:thiagocosta031083@gmail.com)
