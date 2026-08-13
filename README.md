@@ -7,7 +7,7 @@ Desenvolvedor Java Full Stack com experiência em **sistemas corporativos do set
 Atualmente trabalho na manutenção, evolução e desenvolvimento de aplicações bancárias de alta criticidade, participando de projetos como:
 
 * **RSAC — Risco Socioambiental e Climático**
-* **RCR — Renegociação/Renovação de Crédito Rural**
+* **RCR — Renovação de Crédito Rural**
 
 Minha atuação envolve desenvolvimento backend e frontend, integração entre sistemas, APIs REST, bancos de dados corporativos, testes automatizados e processos de integração e entrega contínua.
 
